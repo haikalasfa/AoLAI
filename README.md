@@ -1,6 +1,6 @@
 Langkah 1: Install Python
 Berikut adalah petunjuk menyeluruh dalam bahasa Indonesia untuk mengoperasikan program di laptop baru:
-Unduh Python:
+1. Unduh Python:
 Kunjungi: [python.org](https://www.python.org).
 Klik menu Download dan pilih versi terbaru sesuai sistem operasi Anda (Windows/macOS).
 2. Install Python:
