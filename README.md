@@ -1,3 +1,4 @@
+Panduan Penggunaan
 Langkah 1: Install Python
 Berikut adalah petunjuk menyeluruh dalam bahasa Indonesia untuk mengoperasikan program di laptop baru:
 Unduh Python:
